@@ -9,8 +9,8 @@ FLAG=1
 # select basemodel
 # MODEL_NAME='ChatGLM'
 # MODEL_NAME='ChatGLM2'
-# MODEL_NAME='LLaMA'
-MODEL_NAME='LLaMA2'
+MODEL_NAME='LLaMA'
+# MODEL_NAME='LLaMA2'
 # MODEL_NAME='Bloom-560m'
 
 # select the experiment's model
